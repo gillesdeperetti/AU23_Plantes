@@ -1,4 +1,6 @@
-# FloraFlow - Grow better with AI.
+<img src="https://github.com/gillesdeperetti/AU23_Plantes/blob/2d0e389b6e574a52350fc512aa2243e58541f1bd/src/streamlit/fichiers/FloraFlow.png" alt="Logo FloraFlow - Projet de reconnaissance de plantes" width="200" height="200">
+
+# Grow better with AI.
 
 This GitHub repository contains all the code necessary for the proper functioning of the project we named FloraFlow. This cornerstone project was carried out during our Data Scientist training at Data Scientest.
 
@@ -80,11 +82,11 @@ The V2 Plant Seedlings dataset consists of 5539 images representing seedlings at
 
 To start using FloraFlow, clone the repository and install the necessary dependencies:
 
-    ```bash
-    git clone https://github.com/DataScientest-Studio/AU23_Plantes.git FloraFlow
-    cd FloraFlow
-    pip install -r requirements.txt
-    ```
+```bash
+git clone https://github.com/DataScientest-Studio/AU23_Plantes.git FloraFlow
+cd FloraFlow
+pip install -r requirements.txt
+```
 
 Then, download the Kaggle dataset mentioned earlier and drop it into your FloraFlow folder. It's best to avoid using the NonSegmented folder, as it might have pics of several plant species all mixed in one folder.
 
