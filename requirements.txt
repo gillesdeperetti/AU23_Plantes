@@ -13,3 +13,5 @@ scikit-image==0.22.0
 plotly>=5.18
 kaleido>=0.2.1
 streamlit-option-menu==0.3.6
+streamlit-cropper==0.2.2
+streamlit-folium==0.15.0
