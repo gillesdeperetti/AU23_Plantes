@@ -12,3 +12,4 @@ Keras-Preprocessing==1.1.2
 scikit-image==0.22.0
 plotly>=5.18
 kaleido>=0.2.1
+streamlit-option-menu==0.3.6
