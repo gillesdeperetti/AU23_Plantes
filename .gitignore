@@ -169,8 +169,9 @@ data/
 !models/records
 models/records/*
 !models/records/streamlit
-!models/records/demo’campaign
+!models/records/demo_campaign
 !models/records/exemple
+!models/records/final-test2
 
 !reports/figures
 reports/figures/*
@@ -180,6 +181,7 @@ reports/figures/*
 
 /dataset
 /data/*
+
 
 .DS_Store
 **/.DS_Store
