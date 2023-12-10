@@ -20,7 +20,7 @@ def content(trainer_modeles) :
     trainer_modeles = load_all_models()
     aspect_ratio = (1, 1)
     box_color = '#e69138'
-    modeles = {'Modèle MobileNetV3Large': 0, 'Modèle ResNet50V2': 1}
+    modeles = {'Modèle MobileNetV3Large': 0}
     choix_nom_modele = st.selectbox("Choisissez un modèle", list(modeles.keys()))
     choix_idx = modeles[choix_nom_modele]
     choix_modele = trainer_modeles[choix_idx]
