@@ -98,7 +98,7 @@ To get the Streamlit app going and interact with the user interface:
 streamlit run streamlit/app.py 
 ```
 
-or consult [the online version](#)
+or consult [the online version](https://floraflow.streamlit.app/)
 
 To run the demo notebooks, just open Jupyter Notebook and navigate through the notebooks/ directory.
 
